@@ -39,7 +39,7 @@ This tool helps you to view any public IP location with python.
 <br><br>
 <h2><li>Screenshots</li></h2>
 <img src="screenshots/img1.png">
-<img src="screenshots/Inkedimg2_LI1">
+<img src="screenshots/Inkedimg2_LI1.jpg">
 <img src="screenshots/img3.png">
 <br>
 <p>developer ~ Thomas Genenew</p>
